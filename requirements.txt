@@ -1,0 +1,22 @@
+# Backend - Web framework
+fastapi
+uvicorn[standard]
+
+# Backend - Database (PostgreSQL + ORM)
+sqlalchemy
+psycopg2-binary
+
+# Backend - Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+
+# Backend - Validation
+pydantic[email]
+
+# Backend - 設定管理
+python-dotenv
+boto3
+
+# Frontend
+streamlit
+requests
