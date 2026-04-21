@@ -1,5 +1,3 @@
-from tencentcloud.common import credential
-from altair.utils import deprecated
 from datetime import datetime, timedelta
 from typing import Optional
 
